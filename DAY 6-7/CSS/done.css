@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 20px;
+    background-color: beige;
+}
+.container{
+    background-color:whitesmoke;
+    width: 600px;
+    padding: 25px;
+    margin: 150px;
+    border-top: 3px solid rgb(3, 3, 29);
+    border-bottom: 3px solid  rgb(30, 30, 47);
+    border-left: 3px solid  rgb(3, 3, 29);
+    border-right: 3px solid rgb(3, 3, 29);
+    box-shadow: 0 0 7px 5px rgba(0,0,0,0.5);
+    margin-left: 350px;
+    color: green;
+}
