@@ -1,0 +1,12 @@
+.container {
+    width: 550px;
+    height: 500px;
+    position: relative;
+    background-color:bisque;
+  }
+  .animate {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    background-color:darkslategray;
+  }
